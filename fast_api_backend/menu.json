@@ -1,0 +1,52 @@
+[
+    {
+        "nom": "Pizza Margherita",
+        "description": "Pizza classique avec sauce tomate, mozzarella et basilic frais",
+        "prix": 8.99
+    },
+    {
+        "nom": "Salade César",
+        "description": "Laitue romaine croquante, croûtons et sauce César",
+        "prix": 6.99
+    },
+    {
+        "nom": "Spaghetti Carbonara",
+        "description": "Pâtes avec sauce crémeuse, pancetta et fromage Parmesan",
+        "prix": 12.99
+    },
+    {
+        "nom": "Saumon Grillé",
+        "description": "Filet de saumon frais servi avec une sauce au beurre citronné",
+        "prix": 15.99
+    },
+    {
+        "nom": "Cheeseburger",
+        "description": "Steak de bœuf juteux avec fromage cheddar, laitue et tomate",
+        "prix": 9.99
+    },
+    {
+        "nom": "Sauté de Légumes",
+        "description": "Mélange de légumes sautés dans une sauce soja savoureuse",
+        "prix": 10.99
+    },
+    {
+        "nom": "Poulet Tikka Masala",
+        "description": "Poulet tendre dans une sauce tomate épicée et crémeuse",
+        "prix": 13.99
+    },
+    {
+        "nom": "Soupe à l'Oignon",
+        "description": "Bouillon de bœuf riche avec oignons caramélisés et fromage fondu",
+        "prix": 5.99
+    },
+    {
+        "nom": "Gâteau Fondant au Chocolat",
+        "description": "Gâteau au chocolat chaud avec un cœur fondant",
+        "prix": 6.49
+    },
+    {
+        "nom": "Tiramisu",
+        "description": "Dessert italien classique avec des couches de biscuits imbibés de café et de crème mascarpone",
+        "prix": 7.49
+    }
+]
